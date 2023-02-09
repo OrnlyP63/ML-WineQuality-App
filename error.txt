@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/74005747/valueerror-typeerrornumpy-int32-object-is-not-iterable-typeerrorvars
+https://www.auroria.io/deploying-sklearn-models-via-fastapi-and-docker/
